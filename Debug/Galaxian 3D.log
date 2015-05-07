@@ -1,0 +1,51 @@
+﻿Build started 5/6/2015 9:45:21 PM.
+     1>Project "C:\Users\Naveed\Desktop\Programming\Galaxian 3D1\Galaxian 3D\Galaxian 3D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"d:\Program Files\OpenAL 1.1 SDK\include" /I"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EnemyShip.cpp Font.cpp Main.cpp Ship.cpp Star.cpp cPoly3D.cpp
+         EnemyShip.cpp
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(176): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(177): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(178): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(179): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(529): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(536): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(556): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(557): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(700): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(701): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(709): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\enemyship.cpp(710): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+         Compiling...
+         Main.cpp
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(439): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(449): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(457): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(464): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(468): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(469): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(552): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(563): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(689): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(776): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(780): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\naveed\desktop\programming\galaxian 3d1\galaxian 3d\main.cpp(784): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         cPoly3D.cpp
+         Star.cpp
+         Ship.cpp
+         Font.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Naveed\Desktop\Programming\Galaxian 3D1\Galaxian 3D\Debug\Galaxian 3D.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\OpenAL 1.1 SDK\libs\Win32" /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86" /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include;C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include" /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\atlmfc\include" /LIBPATH:"C:\Program Files (x86)\Windows Kits\8.1\Include\um" /LIBPATH:"C:\Program Files (x86)\Windows Kits\8.1\Include\shared" /LIBPATH:"C:\Program Files (x86)\Windows Kits\8.1\Include\winrt" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Naveed\Desktop\Programming\Galaxian 3D1\Galaxian 3D\Debug\Galaxian 3D.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\Naveed\Desktop\Programming\Galaxian 3D1\Galaxian 3D\Debug\Galaxian 3D.lib" /MACHINE:X86 /SAFESEH Debug\cPoly3D.obj
+         Debug\EnemyShip.obj
+         Debug\Font.obj
+         Debug\Main.obj
+         Debug\Ship.obj
+         Debug\Star.obj
+         Galaxian 3D.vcxproj -> C:\Users\Naveed\Desktop\Programming\Galaxian 3D1\Galaxian 3D\Debug\Galaxian 3D.exe
+     1>Done Building Project "C:\Users\Naveed\Desktop\Programming\Galaxian 3D1\Galaxian 3D\Galaxian 3D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.50

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Galaxian 3D", "Galaxian 3D.vcproj", "{DB99EF97-1FA7-4140-9A05-6F88EBB3266E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB99EF97-1FA7-4140-9A05-6F88EBB3266E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB99EF97-1FA7-4140-9A05-6F88EBB3266E}.Debug|Win32.Build.0 = Debug|Win32
+		{DB99EF97-1FA7-4140-9A05-6F88EBB3266E}.Release|Win32.ActiveCfg = Release|Win32
+		{DB99EF97-1FA7-4140-9A05-6F88EBB3266E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
